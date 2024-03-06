@@ -23,4 +23,6 @@
 
    스택은 영어 단어에서 알 수 있듯, 쌓여있는 자료 구조라 생각하면 됩니다.
    우리가 회전초밥집에 가게 되면 레일에서 초밥을 뽑아 먹고, 그 옆에 접시를 쌓아 놓게 됩니다.
+   ![kaiten sushi](https://github.com/I-kotori/2024-1_DataStructure/assets/104515455/d43e54d9-3779-40bb-831e-cf11df9ee7f1)
+   
    
